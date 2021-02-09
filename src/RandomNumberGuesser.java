@@ -39,11 +39,9 @@ public class RandomNumberGuesser {
 
 
 
-        //Asking the user to enter his first guess
+        //Asking the user to enter his first guessdd
         System.out.println("Enter your first guess between 0-100");
-
         //Using a do-while loop to repeat as much as the user wants to play
-
         do {
 
             //To hold the guess that the user wil enter
